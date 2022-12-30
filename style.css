@@ -1,0 +1,29 @@
+body{
+    width: 100vm;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:white ;
+    color:black ;
+}
+.container{
+    width: 70%;
+    height: 60%;
+    padding: 20px;
+    border: 1px solid#1E1E1E;
+    font-size: 34px;
+
+}
+button{
+    
+    width: 307px;
+    height: 67px;
+    left: 41px;
+    top: 127px;
+    background: #000000;
+    border-radius: 10px;
+    color:white;
+    font-size: 24px;
+    
+}
